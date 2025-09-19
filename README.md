@@ -9,7 +9,7 @@ Here are some examples of the model predicting on new images.
 
 | Cat Prediction | Dog Prediction |
 | :---: | :---: |
-| ![A cat being correctly identified](cat_prediction.jpg) | ![A dog being correctly identified](images/dog_prediction.jpg) |
+| ![A cat being correctly identified](cat_prediction.jpg) | ![A dog being correctly identified](dog_prediction.jpg) |
 
 
 
@@ -23,23 +23,23 @@ The model's performance during training is shown below, plotting accuracy and lo
 ---
 
 ## How to Use
-1.  *Get the code*:
+1.  **Get the code**:
     Download the files from this repository.
 
-2.  *Install dependencies*:
-    Install the necessary libraries using the requirements.txt file.
+2.  **Install dependencies**:
+    Install the necessary libraries using the `requirements.txt` file.
     ```bash
     pip install -r requirements.txt
     ```
     
-3.  *Run the notebook*:
-    Open and run the .ipynb notebook in a Jupyter environment. The notebook will automatically download the required dataset.
+3.  **Run the notebook**:
+    Open and run the `project (1).ipynb` notebook in a Jupyter environment. The notebook will automatically download the required dataset.
 
 ---
 
 ## Project Files
-* **project (1).ipynb notebook**: The main file with all the code for training and evaluation.
+* **project (1).ipynb**: The main Jupyter Notebook with all the code for training and evaluation.
 * **final_image_classifier.keras**: The final trained and saved model.
 * **requirements.txt**: A list of Python libraries needed to run the project.
-* **training_curve.jpg**: Visual results of training curves.
+* **training_curve.jpg**: Visual results of the training curves.
 * **cat_prediction.jpg & dog_prediction.jpg**: Example images showing the model's predictions.
