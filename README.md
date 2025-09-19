@@ -9,7 +9,7 @@ Here are some examples of the model predicting on new images.
 
 | Cat Prediction | Dog Prediction |
 | :---: | :---: |
-| ![A cat being correctly identified](cat_prediction.jpg) | ![A dog being correctly identified](dog_prediction.jpg) |
+| <img src="cat_prediction.jpg" alt="A cat being correctly identified" width="400"> | <img src="dog_prediction.jpg" alt="A dog being correctly identified" width="400"> |
 
 
 
@@ -18,7 +18,9 @@ Here are some examples of the model predicting on new images.
 ## Training Performance
 The model's performance during training is shown below, plotting accuracy and loss for both the training and validation sets.
 
-![Model Training Curves](training_curve.jpg)
+<p align="center">
+  <img src="training_curve.jpg" alt="Model Training Curves" width="600">
+</p>
 
 ---
 
