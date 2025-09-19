@@ -1,4 +1,4 @@
-# Cats-Dogs Image Classification 
+# Cats-Dogs Image Classification
 
 This project uses a deep learning model to classify images of cats and dogs. It leverages transfer learning with the MobileNetV2 architecture, built using TensorFlow and Keras.
 
@@ -28,8 +28,9 @@ The model's performance during training is shown below, plotting accuracy and lo
 
 2.  *Install dependencies*:
     Install the necessary libraries using the requirements.txt file.
-    bash
+    ```bash
     pip install -r requirements.txt
+    ```
     
 3.  *Run the notebook*:
     Open and run the .ipynb notebook in a Jupyter environment. The notebook will automatically download the required dataset.
@@ -40,5 +41,5 @@ The model's performance during training is shown below, plotting accuracy and lo
 * **project (1).ipynb notebook**: The main file with all the code for training and evaluation.
 * **final_image_classifier.keras**: The final trained and saved model.
 * **requirements.txt**: A list of Python libraries needed to run the project.
-* **training_curve**: Visual results of  training curves.
+* **training_curve.jpg**: Visual results of training curves.
 * **cat_prediction.jpg & dog_prediction.jpg**: Example images showing the model's predictions.
