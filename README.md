@@ -9,7 +9,7 @@ Here are some examples of the model predicting on new images.
 
 | Cat Prediction | Dog Prediction |
 | :---: | :---: |
-| ![A cat being correctly identified](cat_prediction.jpg) | ![A dog being correctly identified](dog_prediction.jpg) |
+| ![A cat being correctly identified](cat_prediction.jpg) | ![A dog being correctly identified](images/dog_prediction.jpg) |
 
 
 
