@@ -9,7 +9,7 @@ Here are some examples of the model predicting on new images.
 
 | Cat Prediction | Dog Prediction |
 | :---: | :---: |
-| <img src="cat_prediction.jpg" alt="A cat being correctly identified" width="400"> | <img src="dog_prediction.jpg" alt="A dog being correctly identified" width="400"> |
+| <img src=""C:\Users\ANGEL MARY P V\Downloads\cat_prediction.jpg"" alt="A cat being correctly identified" width="400"> | <img src="C:\Users\ANGEL MARY P V\Downloads\dog_prediction.jpg" alt="A dog being correctly identified" width="400"> |
 
 
 
@@ -19,7 +19,7 @@ Here are some examples of the model predicting on new images.
 The model's performance during training is shown below, plotting accuracy and loss for both the training and validation sets.
 
 <p align="center">
-  <img src="training_curve.jpg" alt="Model Training Curves" width="600">
+  <img src=""C:\Users\ANGEL MARY P V\Downloads\training_curve.jpg"" alt="Model Training Curves" width="600">
 </p>
 
 ---
@@ -35,12 +35,12 @@ The model's performance during training is shown below, plotting accuracy and lo
     ```
     
 3.  **Run the notebook**:
-    Open and run the `project (1).ipynb` notebook in a Jupyter environment. The notebook will automatically download the required dataset.
+    Open and run the `project (1).ipynb` notebook in a Jupyter environment.
 
 ---
 
 ## Project Files
-* **project (1).ipynb**: The main Jupyter Notebook with all the code for training and evaluation.
+* **project (1).ipynb**: The main Jupyter Notebook for the project.
 * **final_image_classifier.keras**: The final trained and saved model.
 * **requirements.txt**: A list of Python libraries needed to run the project.
 * **training_curve.jpg**: Visual results of the training curves.
