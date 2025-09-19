@@ -41,4 +41,4 @@ The model's performance during training is shown below, plotting accuracy and lo
 * **final_image_classifier.keras**: The final trained and saved model.
 * **requirements.txt**: A list of Python libraries needed to run the project.
 * **training_curve**: Visual results of  training curves.
-* **cat_prediction.png & dog_prediction.png**: Example images showing the model's predictions.
+* **cat_prediction.jpg & dog_prediction.jpg**: Example images showing the model's predictions.
